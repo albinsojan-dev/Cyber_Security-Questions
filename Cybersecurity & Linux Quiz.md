@@ -1,4 +1,4 @@
-# Cybersecurity & Linux Quiz - Part 1
+# Cybersecurity & Linux Quiz
 
 A collection of challenging multiple-choice questions focused on **cybersecurity regulations**, **penetration testing**, **compliance frameworks**, **cryptography standards**, and **Linux/security best practices**.
 
