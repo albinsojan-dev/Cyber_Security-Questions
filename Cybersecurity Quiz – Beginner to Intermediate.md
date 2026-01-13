@@ -2,9 +2,6 @@
 
 A collection of **multiple-choice questions** focused on **Cybersecurity fundamentals**, **network security**, **penetration testing**, **Linux basics**, **tools**, **web security**, **cryptography** and common attack techniques.
 
-
-# Cybersecurity & Linux Quiz - Part 2
-
 ### 1. Cybersecurity career roles include?
 - [ ] **a)** Graphic Designer
 - [ ] **b)** Civil Engineer
